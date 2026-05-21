@@ -20,3 +20,9 @@ Hands-on machine learning training repository covering lecture modules 05 to 18.
 ## Goal
 
 This repository is prepared for portfolio and GitHub publication, preserving notebook work, datasets, and practice files from ML training sessions.
+
+## Training Certification
+
+This repository also includes the training certification received for completing the program.
+
+![Training Certification](Certification.jpg)
